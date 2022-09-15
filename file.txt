@@ -1,0 +1,1 @@
+"This file is modified in newfeature2 branch from master branch" 
